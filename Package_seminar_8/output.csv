@@ -1,0 +1,522 @@
+"name"	"parent_dir"	"type"	"size"
+"Лекция 1. Погружение в Python. Основы Python.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	3652468
+"Лекция 1. Погружение в Python. Основы Python.docx.pdf"	"Погружение в Python. Часть 1"	"file"	792770
+"Конспект_Погружение в Python. Часть 1_СемашкоМА.docx"	"Погружение в Python. Часть 1"	"file"	33632
+".idea"	"Погружение в Python. Часть 1"	"dir"	5427
+"Погружение в Python. Часть 1.iml"	"Погружение в Python. Часть 1"	"file"	291
+"modules.xml"	"Погружение в Python. Часть 1"	"file"	347
+"misc.xml"	"Погружение в Python. Часть 1"	"file"	189
+"inspectionProfiles"	"Погружение в Python. Часть 1"	"dir"	174
+"profiles_settings.xml"	".idea"	"file"	174
+".gitignore"	"Погружение в Python. Часть 1"	"file"	50
+"workspace.xml"	"Погружение в Python. Часть 1"	"file"	3684
+"vcs.xml"	"Погружение в Python. Часть 1"	"file"	692
+"seminar 1.py"	"Погружение в Python. Часть 1"	"file"	829
+"1_hometask_Py I_27.05.2024"	"Погружение в Python. Часть 1"	"dir"	36627
+"task_1.py"	"Погружение в Python. Часть 1"	"file"	1393
+"task_2.py"	"Погружение в Python. Часть 1"	"file"	1620
+"task_3.py"	"Погружение в Python. Часть 1"	"file"	1150
+".git"	"Погружение в Python. Часть 1"	"dir"	32464
+"description"	"1_hometask_Py I_27.05.2024"	"file"	73
+"hooks"	"1_hometask_Py I_27.05.2024"	"dir"	25821
+"applypatch-msg.sample"	".git"	"file"	478
+"commit-msg.sample"	".git"	"file"	896
+"fsmonitor-watchman.sample"	".git"	"file"	4726
+"post-update.sample"	".git"	"file"	189
+"pre-applypatch.sample"	".git"	"file"	424
+"pre-commit.sample"	".git"	"file"	1643
+"pre-merge-commit.sample"	".git"	"file"	416
+"pre-push.sample"	".git"	"file"	1374
+"pre-rebase.sample"	".git"	"file"	4898
+"pre-receive.sample"	".git"	"file"	544
+"prepare-commit-msg.sample"	".git"	"file"	1492
+"push-to-checkout.sample"	".git"	"file"	2783
+"sendemail-validate.sample"	".git"	"file"	2308
+"update.sample"	".git"	"file"	3650
+"info"	"1_hometask_Py I_27.05.2024"	"dir"	240
+"exclude"	".git"	"file"	240
+"refs"	"1_hometask_Py I_27.05.2024"	"dir"	82
+"heads"	".git"	"dir"	41
+"main"	"refs"	"file"	41
+"tags"	".git"	"dir"	0
+"remotes"	".git"	"dir"	41
+"origin"	"refs"	"dir"	41
+"main"	"remotes"	"file"	41
+"HEAD"	"1_hometask_Py I_27.05.2024"	"file"	21
+"config"	"1_hometask_Py I_27.05.2024"	"file"	322
+"objects"	"1_hometask_Py I_27.05.2024"	"dir"	4008
+"pack"	".git"	"dir"	0
+"info"	".git"	"dir"	0
+"a4"	".git"	"dir"	534
+"7446e908fc98c29febac24699802c9be4c4aee"	"objects"	"file"	534
+"99"	".git"	"dir"	531
+"6903627c6328cf91a4874531236ee373a8bbc2"	"objects"	"file"	531
+"7b"	".git"	"dir"	536
+"6895ded32f2eeeab0a721469891dd8e3f5cfea"	"objects"	"file"	536
+"d3"	".git"	"dir"	108
+"c21cc801ad95501923b7c1b12a88d692557db6"	"objects"	"file"	108
+"9f"	".git"	"dir"	134
+"a224b591d539179b533f70328f54f72971aa6a"	"objects"	"file"	134
+"e6"	".git"	"dir"	539
+"6d98f5412aa4fc77d2796a7ed9bcab28344ae7"	"objects"	"file"	539
+"5a"	".git"	"dir"	754
+"8d2949b12d189da06c63f9897fdbc00c3a7d5c"	"objects"	"file"	754
+"6d"	".git"	"dir"	592
+"b65fc5502a556dca6de651f2bf8d63903cafcb"	"objects"	"file"	592
+"d5"	".git"	"dir"	107
+"a178fdffdcd41878fe6382e0e6bcdfe231a02e"	"objects"	"file"	107
+"94"	".git"	"dir"	173
+"76e43d975992ffa8b851b3bec39230d9f2f55c"	"objects"	"file"	173
+"index"	"1_hometask_Py I_27.05.2024"	"file"	281
+"COMMIT_EDITMSG"	"1_hometask_Py I_27.05.2024"	"file"	22
+"logs"	"1_hometask_Py I_27.05.2024"	"dir"	1594
+"HEAD"	".git"	"file"	737
+"refs"	".git"	"dir"	857
+"heads"	"logs"	"dir"	541
+"main"	"refs"	"file"	541
+"remotes"	"logs"	"dir"	316
+"origin"	"refs"	"dir"	316
+"main"	"remotes"	"file"	316
+"Лекция 2. Погружение в Python. Простые типы данных.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	3622779
+"Лекция 2. Погружение в Python. Простые типы данных.docx.pdf"	"Погружение в Python. Часть 1"	"file"	526173
+"seminar 2_1.py"	"Погружение в Python. Часть 1"	"file"	633
+"seminar 2_2.py"	"Погружение в Python. Часть 1"	"file"	781
+"seminar 2_3.py"	"Погружение в Python. Часть 1"	"file"	954
+"seminar 2_4.py"	"Погружение в Python. Часть 1"	"file"	3144
+"2_hometask_Py I_30.05.2024"	"Погружение в Python. Часть 1"	"dir"	33130
+"task_1.py"	"Погружение в Python. Часть 1"	"file"	1158
+"task_2.py"	"Погружение в Python. Часть 1"	"file"	2544
+".git"	"Погружение в Python. Часть 1"	"dir"	29428
+"description"	"2_hometask_Py I_30.05.2024"	"file"	73
+"hooks"	"2_hometask_Py I_30.05.2024"	"dir"	25821
+"applypatch-msg.sample"	".git"	"file"	478
+"commit-msg.sample"	".git"	"file"	896
+"fsmonitor-watchman.sample"	".git"	"file"	4726
+"post-update.sample"	".git"	"file"	189
+"pre-applypatch.sample"	".git"	"file"	424
+"pre-commit.sample"	".git"	"file"	1643
+"pre-merge-commit.sample"	".git"	"file"	416
+"pre-push.sample"	".git"	"file"	1374
+"pre-rebase.sample"	".git"	"file"	4898
+"pre-receive.sample"	".git"	"file"	544
+"prepare-commit-msg.sample"	".git"	"file"	1492
+"push-to-checkout.sample"	".git"	"file"	2783
+"sendemail-validate.sample"	".git"	"file"	2308
+"update.sample"	".git"	"file"	3650
+"info"	"2_hometask_Py I_30.05.2024"	"dir"	240
+"exclude"	".git"	"file"	240
+"refs"	"2_hometask_Py I_30.05.2024"	"dir"	82
+"heads"	".git"	"dir"	41
+"main"	"refs"	"file"	41
+"tags"	".git"	"dir"	0
+"remotes"	".git"	"dir"	41
+"origin"	"refs"	"dir"	41
+"main"	"remotes"	"file"	41
+"HEAD"	"2_hometask_Py I_30.05.2024"	"file"	21
+"config"	"2_hometask_Py I_30.05.2024"	"file"	322
+"objects"	"2_hometask_Py I_30.05.2024"	"dir"	1559
+"pack"	".git"	"dir"	0
+"info"	".git"	"dir"	0
+"aa"	".git"	"dir"	500
+"5b7a12960157b524c353f15123622edeadbab0"	"objects"	"file"	500
+"b0"	".git"	"dir"	843
+"5aea8acea61df14a8359f7e6715dde19cb6f32"	"objects"	"file"	843
+"71"	".git"	"dir"	80
+"244b3799d971d6636a861ca51f42243cac590f"	"objects"	"file"	80
+"bd"	".git"	"dir"	136
+"74a989c09b854c9a4c77e8e35b1b72bb00b15a"	"objects"	"file"	136
+"index"	"2_hometask_Py I_30.05.2024"	"file"	209
+"COMMIT_EDITMSG"	"2_hometask_Py I_30.05.2024"	"file"	11
+"logs"	"2_hometask_Py I_30.05.2024"	"dir"	1090
+"HEAD"	".git"	"file"	564
+"refs"	".git"	"dir"	526
+"heads"	"logs"	"dir"	368
+"main"	"refs"	"file"	368
+"remotes"	"logs"	"dir"	158
+"origin"	"refs"	"dir"	158
+"main"	"remotes"	"file"	158
+"Лекция 3. Погружение в Python. Коллекции.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	3193687
+"Лекция 3. Погружение в Python. Коллекции.docx.pdf"	"Погружение в Python. Часть 1"	"file"	571406
+"seminar 3_1.py"	"Погружение в Python. Часть 1"	"file"	588
+"seminar 3_2.py"	"Погружение в Python. Часть 1"	"file"	877
+"seminar 3_3.py"	"Погружение в Python. Часть 1"	"file"	416
+"seminar 3_4.py"	"Погружение в Python. Часть 1"	"file"	739
+"seminar 3_5.py"	"Погружение в Python. Часть 1"	"file"	717
+"seminar 3_6.py"	"Погружение в Python. Часть 1"	"file"	626
+"seminar 3_7.py"	"Погружение в Python. Часть 1"	"file"	648
+"seminar 3_8.py"	"Погружение в Python. Часть 1"	"file"	1942
+"3_hometask_Py I_02.06.2024"	"Погружение в Python. Часть 1"	"dir"	32663
+"task_1.py"	"Погружение в Python. Часть 1"	"file"	399
+"task_2.py"	"Погружение в Python. Часть 1"	"file"	864
+"task_3.py"	"Погружение в Python. Часть 1"	"file"	1694
+".git"	"Погружение в Python. Часть 1"	"dir"	29706
+"description"	"3_hometask_Py I_02.06.2024"	"file"	73
+"hooks"	"3_hometask_Py I_02.06.2024"	"dir"	25821
+"applypatch-msg.sample"	".git"	"file"	478
+"commit-msg.sample"	".git"	"file"	896
+"fsmonitor-watchman.sample"	".git"	"file"	4726
+"post-update.sample"	".git"	"file"	189
+"pre-applypatch.sample"	".git"	"file"	424
+"pre-commit.sample"	".git"	"file"	1643
+"pre-merge-commit.sample"	".git"	"file"	416
+"pre-push.sample"	".git"	"file"	1374
+"pre-rebase.sample"	".git"	"file"	4898
+"pre-receive.sample"	".git"	"file"	544
+"prepare-commit-msg.sample"	".git"	"file"	1492
+"push-to-checkout.sample"	".git"	"file"	2783
+"sendemail-validate.sample"	".git"	"file"	2308
+"update.sample"	".git"	"file"	3650
+"info"	"3_hometask_Py I_02.06.2024"	"dir"	240
+"exclude"	".git"	"file"	240
+"refs"	"3_hometask_Py I_02.06.2024"	"dir"	82
+"heads"	".git"	"dir"	41
+"main"	"refs"	"file"	41
+"tags"	".git"	"dir"	0
+"remotes"	".git"	"dir"	41
+"origin"	"refs"	"dir"	41
+"main"	"remotes"	"file"	41
+"HEAD"	"3_hometask_Py I_02.06.2024"	"file"	21
+"config"	"3_hometask_Py I_02.06.2024"	"file"	322
+"objects"	"3_hometask_Py I_02.06.2024"	"dir"	1765
+"pack"	".git"	"dir"	0
+"info"	".git"	"dir"	0
+"5a"	".git"	"dir"	270
+"8a1cf0a3af357ac8e11c1efe816cc1c3f3a1fa"	"objects"	"file"	270
+"23"	".git"	"dir"	511
+"17df8939cfdd6d532ba5f0184703b8382e590e"	"objects"	"file"	511
+"27"	".git"	"dir"	743
+"eb69001057be509c3a7569a89884629420afb2"	"objects"	"file"	743
+"95"	".git"	"dir"	107
+"453fb597fe92ca2ead71b4dee4a8a66ec25ba9"	"objects"	"file"	107
+"4d"	".git"	"dir"	134
+"aa6bd5a18443dfff24954635df122950ad1101"	"objects"	"file"	134
+"index"	"3_hometask_Py I_02.06.2024"	"file"	281
+"COMMIT_EDITMSG"	"3_hometask_Py I_02.06.2024"	"file"	11
+"logs"	"3_hometask_Py I_02.06.2024"	"dir"	1090
+"HEAD"	".git"	"file"	564
+"refs"	".git"	"dir"	526
+"heads"	"logs"	"dir"	368
+"main"	"refs"	"file"	368
+"remotes"	"logs"	"dir"	158
+"origin"	"refs"	"dir"	158
+"main"	"remotes"	"file"	158
+"Лекция 4. Погружение в Python. Функции.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	2636604
+"Лекция 4. Погружение в Python. Функции.docx.pdf"	"Погружение в Python. Часть 1"	"file"	532241
+"seminar 4_1.py"	"Погружение в Python. Часть 1"	"file"	525
+"seminar 4_2.py"	"Погружение в Python. Часть 1"	"file"	457
+"seminar 4_3.py"	"Погружение в Python. Часть 1"	"file"	483
+"seminar 4_4.py"	"Погружение в Python. Часть 1"	"file"	575
+"seminar 4_5.py"	"Погружение в Python. Часть 1"	"file"	647
+"seminar 4_6.py"	"Погружение в Python. Часть 1"	"file"	588
+"seminar 4_7.py"	"Погружение в Python. Часть 1"	"file"	1006
+"seminar 4_8.py"	"Погружение в Python. Часть 1"	"file"	755
+"4_hometask_Py I_05.06.2024"	"Погружение в Python. Часть 1"	"dir"	34784
+"task_1.py"	"Погружение в Python. Часть 1"	"file"	357
+"task_2.py"	"Погружение в Python. Часть 1"	"file"	761
+"task_3.py"	"Погружение в Python. Часть 1"	"file"	3469
+".git"	"Погружение в Python. Часть 1"	"dir"	30197
+"description"	"4_hometask_Py I_05.06.2024"	"file"	73
+"hooks"	"4_hometask_Py I_05.06.2024"	"dir"	25821
+"applypatch-msg.sample"	".git"	"file"	478
+"commit-msg.sample"	".git"	"file"	896
+"fsmonitor-watchman.sample"	".git"	"file"	4726
+"post-update.sample"	".git"	"file"	189
+"pre-applypatch.sample"	".git"	"file"	424
+"pre-commit.sample"	".git"	"file"	1643
+"pre-merge-commit.sample"	".git"	"file"	416
+"pre-push.sample"	".git"	"file"	1374
+"pre-rebase.sample"	".git"	"file"	4898
+"pre-receive.sample"	".git"	"file"	544
+"prepare-commit-msg.sample"	".git"	"file"	1492
+"push-to-checkout.sample"	".git"	"file"	2783
+"sendemail-validate.sample"	".git"	"file"	2308
+"update.sample"	".git"	"file"	3650
+"info"	"4_hometask_Py I_05.06.2024"	"dir"	240
+"exclude"	".git"	"file"	240
+"refs"	"4_hometask_Py I_05.06.2024"	"dir"	82
+"heads"	".git"	"dir"	41
+"main"	"refs"	"file"	41
+"tags"	".git"	"dir"	0
+"remotes"	".git"	"dir"	41
+"origin"	"refs"	"dir"	41
+"main"	"remotes"	"file"	41
+"HEAD"	"4_hometask_Py I_05.06.2024"	"file"	21
+"config"	"4_hometask_Py I_05.06.2024"	"file"	322
+"objects"	"4_hometask_Py I_05.06.2024"	"dir"	2256
+"pack"	".git"	"dir"	0
+"info"	".git"	"dir"	0
+"cb"	".git"	"dir"	245
+"b0706dea88d420531f1fa5ed4e13a04f4fc60a"	"objects"	"file"	245
+"74"	".git"	"dir"	470
+"7413411258edbdbe6cb754109ba2c6dce80ef3"	"objects"	"file"	470
+"80"	".git"	"dir"	1298
+"4c6f5abb13d897afd65eadc0a7b348812603f6"	"objects"	"file"	1298
+"d0"	".git"	"dir"	107
+"f61984910ecc42bbc738dd0bb3363387aed29c"	"objects"	"file"	107
+"3e"	".git"	"dir"	136
+"17dde1e4ef68de791adb09a9fca8580afe64ef"	"objects"	"file"	136
+"index"	"4_hometask_Py I_05.06.2024"	"file"	281
+"COMMIT_EDITMSG"	"4_hometask_Py I_05.06.2024"	"file"	11
+"logs"	"4_hometask_Py I_05.06.2024"	"dir"	1090
+"HEAD"	".git"	"file"	564
+"refs"	".git"	"dir"	526
+"heads"	"logs"	"dir"	368
+"main"	"refs"	"file"	368
+"remotes"	"logs"	"dir"	158
+"origin"	"refs"	"dir"	158
+"main"	"remotes"	"file"	158
+"Лекция 5. Погружение в Python. Итераторы и генераторы.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	2429133
+"Лекция 5. Погружение в Python. Итераторы и генераторы.docx.pdf"	"Погружение в Python. Часть 1"	"file"	451884
+"seminar 5_1.py"	"Погружение в Python. Часть 1"	"file"	578
+"seminar 5_2.py"	"Погружение в Python. Часть 1"	"file"	520
+"seminar 5_3.py"	"Погружение в Python. Часть 1"	"file"	380
+"seminar 5_4.py"	"Погружение в Python. Часть 1"	"file"	818
+"seminar 5_5.py"	"Погружение в Python. Часть 1"	"file"	476
+"seminar 5_6.py"	"Погружение в Python. Часть 1"	"file"	954
+"5_hometask_Py I_08.06.2024"	"Погружение в Python. Часть 1"	"dir"	31327
+"task_1.py"	"Погружение в Python. Часть 1"	"file"	614
+"task_2.py"	"Погружение в Python. Часть 1"	"file"	913
+"task_3.py"	"Погружение в Python. Часть 1"	"file"	480
+".git"	"Погружение в Python. Часть 1"	"dir"	29320
+"description"	"5_hometask_Py I_08.06.2024"	"file"	73
+"hooks"	"5_hometask_Py I_08.06.2024"	"dir"	25821
+"applypatch-msg.sample"	".git"	"file"	478
+"commit-msg.sample"	".git"	"file"	896
+"fsmonitor-watchman.sample"	".git"	"file"	4726
+"post-update.sample"	".git"	"file"	189
+"pre-applypatch.sample"	".git"	"file"	424
+"pre-commit.sample"	".git"	"file"	1643
+"pre-merge-commit.sample"	".git"	"file"	416
+"pre-push.sample"	".git"	"file"	1374
+"pre-rebase.sample"	".git"	"file"	4898
+"pre-receive.sample"	".git"	"file"	544
+"prepare-commit-msg.sample"	".git"	"file"	1492
+"push-to-checkout.sample"	".git"	"file"	2783
+"sendemail-validate.sample"	".git"	"file"	2308
+"update.sample"	".git"	"file"	3650
+"info"	"5_hometask_Py I_08.06.2024"	"dir"	240
+"exclude"	".git"	"file"	240
+"refs"	"5_hometask_Py I_08.06.2024"	"dir"	82
+"heads"	".git"	"dir"	41
+"main"	"refs"	"file"	41
+"tags"	".git"	"dir"	0
+"remotes"	".git"	"dir"	41
+"origin"	"refs"	"dir"	41
+"main"	"remotes"	"file"	41
+"HEAD"	"5_hometask_Py I_08.06.2024"	"file"	21
+"config"	"5_hometask_Py I_08.06.2024"	"file"	322
+"objects"	"5_hometask_Py I_08.06.2024"	"dir"	1379
+"pack"	".git"	"dir"	0
+"info"	".git"	"dir"	0
+"39"	".git"	"dir"	362
+"1ac1cc55ebf42d16fa2d84c7c15bd4dbcd03b9"	"objects"	"file"	362
+"4b"	".git"	"dir"	522
+"76f50b31415512a56b6957b6529d94203efb21"	"objects"	"file"	522
+"28"	".git"	"dir"	254
+"7ada6e6e65d95c6fbe5104954eb0adf8ea8ab7"	"objects"	"file"	254
+"54"	".git"	"dir"	107
+"a26e08825221031d1d6bc3574a1823e47412b5"	"objects"	"file"	107
+"b1"	".git"	"dir"	134
+"a8826d56c60df4d1bf1d8fe9519d711e3be3b0"	"objects"	"file"	134
+"index"	"5_hometask_Py I_08.06.2024"	"file"	281
+"COMMIT_EDITMSG"	"5_hometask_Py I_08.06.2024"	"file"	11
+"logs"	"5_hometask_Py I_08.06.2024"	"dir"	1090
+"HEAD"	".git"	"file"	564
+"refs"	".git"	"dir"	526
+"heads"	"logs"	"dir"	368
+"main"	"refs"	"file"	368
+"remotes"	"logs"	"dir"	158
+"origin"	"refs"	"dir"	158
+"main"	"remotes"	"file"	158
+"Лекция 6. Погружение в Python. Модули.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	2600487
+"Лекция 6. Погружение в Python. Модули.docx.pdf"	"Погружение в Python. Часть 1"	"file"	487783
+"seminar 6_1.py"	"Погружение в Python. Часть 1"	"file"	1460
+"seminar 6_2.py"	"Погружение в Python. Часть 1"	"file"	2843
+"seminar 6_3.py"	"Погружение в Python. Часть 1"	"file"	1252
+"6_hometask_Py I_12.06.2024"	"Погружение в Python. Часть 1"	"dir"	41703
+"Package_seminar_6"	"Погружение в Python. Часть 1"	"dir"	8970
+"check_year_module.py"	"6_hometask_Py I_12.06.2024"	"file"	1375
+"puzzles_module.py"	"6_hometask_Py I_12.06.2024"	"file"	2887
+"guess_number_module.py"	"6_hometask_Py I_12.06.2024"	"file"	1488
+"__init__.py"	"6_hometask_Py I_12.06.2024"	"file"	532
+"chess_module.py"	"6_hometask_Py I_12.06.2024"	"file"	2688
+".git"	"Погружение в Python. Часть 1"	"dir"	32733
+"description"	"6_hometask_Py I_12.06.2024"	"file"	73
+"hooks"	"6_hometask_Py I_12.06.2024"	"dir"	25821
+"applypatch-msg.sample"	".git"	"file"	478
+"commit-msg.sample"	".git"	"file"	896
+"fsmonitor-watchman.sample"	".git"	"file"	4726
+"post-update.sample"	".git"	"file"	189
+"pre-applypatch.sample"	".git"	"file"	424
+"pre-commit.sample"	".git"	"file"	1643
+"pre-merge-commit.sample"	".git"	"file"	416
+"pre-push.sample"	".git"	"file"	1374
+"pre-rebase.sample"	".git"	"file"	4898
+"pre-receive.sample"	".git"	"file"	544
+"prepare-commit-msg.sample"	".git"	"file"	1492
+"push-to-checkout.sample"	".git"	"file"	2783
+"sendemail-validate.sample"	".git"	"file"	2308
+"update.sample"	".git"	"file"	3650
+"info"	"6_hometask_Py I_12.06.2024"	"dir"	240
+"exclude"	".git"	"file"	240
+"refs"	"6_hometask_Py I_12.06.2024"	"dir"	82
+"heads"	".git"	"dir"	41
+"main"	"refs"	"file"	41
+"tags"	".git"	"dir"	0
+"remotes"	".git"	"dir"	41
+"origin"	"refs"	"dir"	41
+"main"	"remotes"	"file"	41
+"HEAD"	"6_hometask_Py I_12.06.2024"	"file"	21
+"config"	"6_hometask_Py I_12.06.2024"	"file"	322
+"objects"	"6_hometask_Py I_12.06.2024"	"dir"	4462
+"pack"	".git"	"dir"	0
+"info"	".git"	"dir"	0
+"93"	".git"	"dir"	318
+"21a20d7629a9c585f118f6a892b72f67648fcc"	"objects"	"file"	318
+"77"	".git"	"dir"	694
+"278e7393b31261fce30a7dcdbb1f8ba09a9ceb"	"objects"	"file"	694
+"68"	".git"	"dir"	1085
+"2c8aa93f8e3e0ba040e907906f66f8f93d1d64"	"objects"	"file"	1085
+"69"	".git"	"dir"	745
+"a84009c25bdd9f41ec01715f925357bea14bdc"	"objects"	"file"	745
+"a0"	".git"	"dir"	1235
+"660b80d3584f46196f0fb0e4a2264c63966b3e"	"objects"	"file"	1235
+"46"	".git"	"dir"	192
+"7d22e5e59a873de1f2d1975c1a79de3b4bf379"	"objects"	"file"	192
+"a4"	".git"	"dir"	59
+"ae79cc459d5a042138a68647c1bf3dd8144295"	"objects"	"file"	59
+"a2"	".git"	"dir"	134
+"a22552cbeb0699cacb05f0f8e356a2fcf00b68"	"objects"	"file"	134
+"index"	"6_hometask_Py I_12.06.2024"	"file"	611
+"COMMIT_EDITMSG"	"6_hometask_Py I_12.06.2024"	"file"	11
+"logs"	"6_hometask_Py I_12.06.2024"	"dir"	1090
+"HEAD"	".git"	"file"	564
+"refs"	".git"	"dir"	526
+"heads"	"logs"	"dir"	368
+"main"	"refs"	"file"	368
+"remotes"	"logs"	"dir"	158
+"origin"	"refs"	"dir"	158
+"main"	"remotes"	"file"	158
+"Лекция 7. Погружение в Python. Файлы и файловая система.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	2437959
+"Лекция 7. Погружение в Python. Файлы и файловая система.docx.pdf"	"Погружение в Python. Часть 1"	"file"	473280
+"seminar 7_1.py"	"Погружение в Python. Часть 1"	"file"	764
+"seminar 7_2.py"	"Погружение в Python. Часть 1"	"file"	1069
+"seminar 7_3.py"	"Погружение в Python. Часть 1"	"file"	1766
+"seminar 7_4.py"	"Погружение в Python. Часть 1"	"file"	821
+"seminar 7_5.py"	"Погружение в Python. Часть 1"	"file"	971
+"seminar 7_6.py"	"Погружение в Python. Часть 1"	"file"	1629
+"seminar 7_7.py"	"Погружение в Python. Часть 1"	"file"	1053
+"test_seminar7"	"Погружение в Python. Часть 1"	"dir"	8504
+"video"	"Погружение в Python. Часть 1"	"dir"	0
+"images"	"Погружение в Python. Часть 1"	"dir"	7960
+"p3x_89s_a2655km0peb.jpeg"	"test_seminar7"	"file"	1422
+"tp07dtq_6nt6fg7x.jpeg"	"test_seminar7"	"file"	2763
+"u4me_drhsuf4h6o30br6r_qu.jpeg"	"test_seminar7"	"file"	3775
+"numbers1.txt"	"Погружение в Python. Часть 1"	"file"	256
+"names1.txt"	"Погружение в Python. Часть 1"	"file"	75
+"result1.txt"	"Погружение в Python. Часть 1"	"file"	213
+"7_hometask_Py I_20.06.2024"	"Погружение в Python. Часть 1"	"dir"	46230
+"Package_seminar_7"	"Погружение в Python. Часть 1"	"dir"	11105
+"fill_the_file.py"	"7_hometask_Py I_20.06.2024"	"file"	792
+"generate_name.py"	"7_hometask_Py I_20.06.2024"	"file"	1096
+"sum_files.py"	"7_hometask_Py I_20.06.2024"	"file"	1810
+"generate_files_simple.py"	"7_hometask_Py I_20.06.2024"	"file"	846
+"generate_files_advance.py"	"7_hometask_Py I_20.06.2024"	"file"	1015
+"generate_files_to_directory.py"	"7_hometask_Py I_20.06.2024"	"file"	1662
+"sort_files.py"	"7_hometask_Py I_20.06.2024"	"file"	1249
+"rename_files.py"	"7_hometask_Py I_20.06.2024"	"file"	2270
+"__init__.py"	"7_hometask_Py I_20.06.2024"	"file"	365
+".git"	"Погружение в Python. Часть 1"	"dir"	35125
+"description"	"7_hometask_Py I_20.06.2024"	"file"	73
+"hooks"	"7_hometask_Py I_20.06.2024"	"dir"	25821
+"applypatch-msg.sample"	".git"	"file"	478
+"commit-msg.sample"	".git"	"file"	896
+"fsmonitor-watchman.sample"	".git"	"file"	4726
+"post-update.sample"	".git"	"file"	189
+"pre-applypatch.sample"	".git"	"file"	424
+"pre-commit.sample"	".git"	"file"	1643
+"pre-merge-commit.sample"	".git"	"file"	416
+"pre-push.sample"	".git"	"file"	1374
+"pre-rebase.sample"	".git"	"file"	4898
+"pre-receive.sample"	".git"	"file"	544
+"prepare-commit-msg.sample"	".git"	"file"	1492
+"push-to-checkout.sample"	".git"	"file"	2783
+"sendemail-validate.sample"	".git"	"file"	2308
+"update.sample"	".git"	"file"	3650
+"info"	"7_hometask_Py I_20.06.2024"	"dir"	240
+"exclude"	".git"	"file"	240
+"refs"	"7_hometask_Py I_20.06.2024"	"dir"	82
+"heads"	".git"	"dir"	41
+"main"	"refs"	"file"	41
+"tags"	".git"	"dir"	0
+"remotes"	".git"	"dir"	41
+"origin"	"refs"	"dir"	41
+"main"	"remotes"	"file"	41
+"HEAD"	"7_hometask_Py I_20.06.2024"	"file"	21
+"config"	"7_hometask_Py I_20.06.2024"	"file"	322
+"objects"	"7_hometask_Py I_20.06.2024"	"dir"	6430
+"pack"	".git"	"dir"	0
+"info"	".git"	"dir"	0
+"55"	".git"	"dir"	247
+"58296f3d0d4ec602c4e8611e86c7658d09ee35"	"objects"	"file"	247
+"fd"	".git"	"dir"	508
+"61e0edeb289e783dd68ae994f9dfac3ac9f7e9"	"objects"	"file"	508
+"ca"	".git"	"dir"	554
+"32fb0d5bdd01eb4b9fa19eb2f3d7ad0c85e513"	"objects"	"file"	554
+"5b"	".git"	"dir"	493
+"5b21164f7470c18bcdd872c640898d64675061"	"objects"	"file"	493
+"0b"	".git"	"dir"	885
+"90640f407c7fccc29e05d08af949377b5348ce"	"objects"	"file"	885
+"e4"	".git"	"dir"	626
+"377c51c58f1143fe0c8244ccb886d9e6e40457"	"objects"	"file"	626
+"f9"	".git"	"dir"	1046
+"9372d47709399b4ee92786f5a035c5b3a6dfe4"	"objects"	"file"	1046
+"f1"	".git"	"dir"	687
+"c87db5c440ee50b83059ae21b6c2352278d524"	"objects"	"file"	687
+"11"	".git"	"dir"	870
+"f9654aa08a956cc636bf0de3ec109a9c597c58"	"objects"	"file"	870
+"8c"	".git"	"dir"	320
+"2bdca5ded66667671afcd05e7e06c2acce48e7"	"objects"	"file"	320
+"ad"	".git"	"dir"	59
+"b82631347506d6f5088157a3833d6f0606ba3c"	"objects"	"file"	59
+"35"	".git"	"dir"	135
+"9de0932f45e2389780e55667b885d8578f5b5c"	"objects"	"file"	135
+"index"	"7_hometask_Py I_20.06.2024"	"file"	1035
+"COMMIT_EDITMSG"	"7_hometask_Py I_20.06.2024"	"file"	11
+"logs"	"7_hometask_Py I_20.06.2024"	"dir"	1090
+"HEAD"	".git"	"file"	564
+"refs"	".git"	"dir"	526
+"heads"	"logs"	"dir"	368
+"main"	"refs"	"file"	368
+"remotes"	"logs"	"dir"	158
+"origin"	"refs"	"dir"	158
+"main"	"remotes"	"file"	158
+"~$нспект_Погружение в Python. Часть 1_СемашкоМА.docx"	"Погружение в Python. Часть 1"	"file"	162
+"Лекция 8. Погружение в Python. Сериализация.pptx.pdf"	"Погружение в Python. Часть 1"	"file"	2515942
+"Лекция 8. Погружение в Python. Сериализация.docx.pdf"	"Погружение в Python. Часть 1"	"file"	437320
+"seminar 8_1.py"	"Погружение в Python. Часть 1"	"file"	1017
+"result1.json"	"Погружение в Python. Часть 1"	"file"	284
+"seminar 8_2.py"	"Погружение в Python. Часть 1"	"file"	1602
+"users.json"	"Погружение в Python. Часть 1"	"file"	145
+"seminar 8_3.py"	"Погружение в Python. Часть 1"	"file"	858
+"users.csv"	"Погружение в Python. Часть 1"	"file"	40
+"seminar 8_4.py"	"Погружение в Python. Часть 1"	"file"	1566
+"new_users.json"	"Погружение в Python. Часть 1"	"file"	321
+"seminar 8_5.py"	"Погружение в Python. Часть 1"	"file"	828
+"result1.pickle"	"Погружение в Python. Часть 1"	"file"	191
+"users.pickle"	"Погружение в Python. Часть 1"	"file"	83
+"new_users.pickle"	"Погружение в Python. Часть 1"	"file"	162
+"seminar 8_6.py"	"Погружение в Python. Часть 1"	"file"	916
+"new_users.csv"	"Погружение в Python. Часть 1"	"file"	154
+"seminar 8_7.py"	"Погружение в Python. Часть 1"	"file"	800
+"8_hometask_Py I_23.06.2024"	"Погружение в Python. Часть 1"	"dir"	10910
+"Package_seminar_8"	"Погружение в Python. Часть 1"	"dir"	10910
+"txt_to_json.py"	"8_hometask_Py I_23.06.2024"	"file"	1029
+"set_users.py"	"8_hometask_Py I_23.06.2024"	"file"	1629
+"json_to_csv.py"	"8_hometask_Py I_23.06.2024"	"file"	889
+"csv_to_json.py"	"8_hometask_Py I_23.06.2024"	"file"	1598
+"pickle_to_csv.py"	"8_hometask_Py I_23.06.2024"	"file"	949
+"csv_to_pickle.py"	"8_hometask_Py I_23.06.2024"	"file"	833
+"json_to_pickle.py"	"8_hometask_Py I_23.06.2024"	"file"	862
+"recursion_by_directory.py"	"8_hometask_Py I_23.06.2024"	"file"	2745
+"__init__.py"	"8_hometask_Py I_23.06.2024"	"file"	376

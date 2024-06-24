@@ -1,0 +1,3128 @@
+[
+  {
+    "name": "Лекция 1. Погружение в Python. Основы Python.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 3652468
+  },
+  {
+    "name": "Лекция 1. Погружение в Python. Основы Python.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 792770
+  },
+  {
+    "name": "Конспект_Погружение в Python. Часть 1_СемашкоМА.docx",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 33632
+  },
+  {
+    "name": ".idea",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 5427
+  },
+  {
+    "name": "Погружение в Python. Часть 1.iml",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 291
+  },
+  {
+    "name": "modules.xml",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 347
+  },
+  {
+    "name": "misc.xml",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "inspectionProfiles",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 174
+  },
+  {
+    "name": "profiles_settings.xml",
+    "parent_dir": ".idea",
+    "type": "file",
+    "size": 174
+  },
+  {
+    "name": ".gitignore",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 50
+  },
+  {
+    "name": "workspace.xml",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 3684
+  },
+  {
+    "name": "vcs.xml",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 692
+  },
+  {
+    "name": "seminar 1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 829
+  },
+  {
+    "name": "1_hometask_Py I_27.05.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 36627
+  },
+  {
+    "name": "task_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1393
+  },
+  {
+    "name": "task_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1620
+  },
+  {
+    "name": "task_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1150
+  },
+  {
+    "name": ".git",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 32464
+  },
+  {
+    "name": "description",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "hooks",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "dir",
+    "size": 25821
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2308
+  },
+  {
+    "name": "update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": "info",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "dir",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "refs",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "dir",
+    "size": 82
+  },
+  {
+    "name": "heads",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "tags",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "remotes",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "config",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "file",
+    "size": 322
+  },
+  {
+    "name": "objects",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "dir",
+    "size": 4008
+  },
+  {
+    "name": "pack",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "info",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "a4",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 534
+  },
+  {
+    "name": "7446e908fc98c29febac24699802c9be4c4aee",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 534
+  },
+  {
+    "name": "99",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 531
+  },
+  {
+    "name": "6903627c6328cf91a4874531236ee373a8bbc2",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 531
+  },
+  {
+    "name": "7b",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 536
+  },
+  {
+    "name": "6895ded32f2eeeab0a721469891dd8e3f5cfea",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 536
+  },
+  {
+    "name": "d3",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 108
+  },
+  {
+    "name": "c21cc801ad95501923b7c1b12a88d692557db6",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 108
+  },
+  {
+    "name": "9f",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 134
+  },
+  {
+    "name": "a224b591d539179b533f70328f54f72971aa6a",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 134
+  },
+  {
+    "name": "e6",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 539
+  },
+  {
+    "name": "6d98f5412aa4fc77d2796a7ed9bcab28344ae7",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 539
+  },
+  {
+    "name": "5a",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 754
+  },
+  {
+    "name": "8d2949b12d189da06c63f9897fdbc00c3a7d5c",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 754
+  },
+  {
+    "name": "6d",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 592
+  },
+  {
+    "name": "b65fc5502a556dca6de651f2bf8d63903cafcb",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 592
+  },
+  {
+    "name": "d5",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 107
+  },
+  {
+    "name": "a178fdffdcd41878fe6382e0e6bcdfe231a02e",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 107
+  },
+  {
+    "name": "94",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 173
+  },
+  {
+    "name": "76e43d975992ffa8b851b3bec39230d9f2f55c",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 173
+  },
+  {
+    "name": "index",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "file",
+    "size": 281
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "file",
+    "size": 22
+  },
+  {
+    "name": "logs",
+    "parent_dir": "1_hometask_Py I_27.05.2024",
+    "type": "dir",
+    "size": 1594
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 737
+  },
+  {
+    "name": "refs",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 857
+  },
+  {
+    "name": "heads",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 541
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 541
+  },
+  {
+    "name": "remotes",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 316
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 316
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 316
+  },
+  {
+    "name": "Лекция 2. Погружение в Python. Простые типы данных.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 3622779
+  },
+  {
+    "name": "Лекция 2. Погружение в Python. Простые типы данных.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 526173
+  },
+  {
+    "name": "seminar 2_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 633
+  },
+  {
+    "name": "seminar 2_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 781
+  },
+  {
+    "name": "seminar 2_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 954
+  },
+  {
+    "name": "seminar 2_4.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 3144
+  },
+  {
+    "name": "2_hometask_Py I_30.05.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 33130
+  },
+  {
+    "name": "task_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1158
+  },
+  {
+    "name": "task_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 2544
+  },
+  {
+    "name": ".git",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 29428
+  },
+  {
+    "name": "description",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "hooks",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "dir",
+    "size": 25821
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2308
+  },
+  {
+    "name": "update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": "info",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "dir",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "refs",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "dir",
+    "size": 82
+  },
+  {
+    "name": "heads",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "tags",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "remotes",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "config",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "file",
+    "size": 322
+  },
+  {
+    "name": "objects",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "dir",
+    "size": 1559
+  },
+  {
+    "name": "pack",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "info",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "aa",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 500
+  },
+  {
+    "name": "5b7a12960157b524c353f15123622edeadbab0",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 500
+  },
+  {
+    "name": "b0",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 843
+  },
+  {
+    "name": "5aea8acea61df14a8359f7e6715dde19cb6f32",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 843
+  },
+  {
+    "name": "71",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 80
+  },
+  {
+    "name": "244b3799d971d6636a861ca51f42243cac590f",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 80
+  },
+  {
+    "name": "bd",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 136
+  },
+  {
+    "name": "74a989c09b854c9a4c77e8e35b1b72bb00b15a",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 136
+  },
+  {
+    "name": "index",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "file",
+    "size": 209
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "file",
+    "size": 11
+  },
+  {
+    "name": "logs",
+    "parent_dir": "2_hometask_Py I_30.05.2024",
+    "type": "dir",
+    "size": 1090
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 564
+  },
+  {
+    "name": "refs",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 526
+  },
+  {
+    "name": "heads",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 368
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 368
+  },
+  {
+    "name": "remotes",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 158
+  },
+  {
+    "name": "Лекция 3. Погружение в Python. Коллекции.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 3193687
+  },
+  {
+    "name": "Лекция 3. Погружение в Python. Коллекции.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 571406
+  },
+  {
+    "name": "seminar 3_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 588
+  },
+  {
+    "name": "seminar 3_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 877
+  },
+  {
+    "name": "seminar 3_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "seminar 3_4.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 739
+  },
+  {
+    "name": "seminar 3_5.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 717
+  },
+  {
+    "name": "seminar 3_6.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 626
+  },
+  {
+    "name": "seminar 3_7.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 648
+  },
+  {
+    "name": "seminar 3_8.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1942
+  },
+  {
+    "name": "3_hometask_Py I_02.06.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 32663
+  },
+  {
+    "name": "task_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 399
+  },
+  {
+    "name": "task_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 864
+  },
+  {
+    "name": "task_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1694
+  },
+  {
+    "name": ".git",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 29706
+  },
+  {
+    "name": "description",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "hooks",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "dir",
+    "size": 25821
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2308
+  },
+  {
+    "name": "update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": "info",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "dir",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "refs",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "dir",
+    "size": 82
+  },
+  {
+    "name": "heads",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "tags",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "remotes",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "config",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "file",
+    "size": 322
+  },
+  {
+    "name": "objects",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "dir",
+    "size": 1765
+  },
+  {
+    "name": "pack",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "info",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "5a",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 270
+  },
+  {
+    "name": "8a1cf0a3af357ac8e11c1efe816cc1c3f3a1fa",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 270
+  },
+  {
+    "name": "23",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 511
+  },
+  {
+    "name": "17df8939cfdd6d532ba5f0184703b8382e590e",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 511
+  },
+  {
+    "name": "27",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 743
+  },
+  {
+    "name": "eb69001057be509c3a7569a89884629420afb2",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 743
+  },
+  {
+    "name": "95",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 107
+  },
+  {
+    "name": "453fb597fe92ca2ead71b4dee4a8a66ec25ba9",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 107
+  },
+  {
+    "name": "4d",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 134
+  },
+  {
+    "name": "aa6bd5a18443dfff24954635df122950ad1101",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 134
+  },
+  {
+    "name": "index",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "file",
+    "size": 281
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "file",
+    "size": 11
+  },
+  {
+    "name": "logs",
+    "parent_dir": "3_hometask_Py I_02.06.2024",
+    "type": "dir",
+    "size": 1090
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 564
+  },
+  {
+    "name": "refs",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 526
+  },
+  {
+    "name": "heads",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 368
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 368
+  },
+  {
+    "name": "remotes",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 158
+  },
+  {
+    "name": "Лекция 4. Погружение в Python. Функции.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 2636604
+  },
+  {
+    "name": "Лекция 4. Погружение в Python. Функции.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 532241
+  },
+  {
+    "name": "seminar 4_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 525
+  },
+  {
+    "name": "seminar 4_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 457
+  },
+  {
+    "name": "seminar 4_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 483
+  },
+  {
+    "name": "seminar 4_4.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 575
+  },
+  {
+    "name": "seminar 4_5.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 647
+  },
+  {
+    "name": "seminar 4_6.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 588
+  },
+  {
+    "name": "seminar 4_7.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1006
+  },
+  {
+    "name": "seminar 4_8.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 755
+  },
+  {
+    "name": "4_hometask_Py I_05.06.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 34784
+  },
+  {
+    "name": "task_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 357
+  },
+  {
+    "name": "task_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 761
+  },
+  {
+    "name": "task_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 3469
+  },
+  {
+    "name": ".git",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 30197
+  },
+  {
+    "name": "description",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "hooks",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "dir",
+    "size": 25821
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2308
+  },
+  {
+    "name": "update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": "info",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "dir",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "refs",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "dir",
+    "size": 82
+  },
+  {
+    "name": "heads",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "tags",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "remotes",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "config",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "file",
+    "size": 322
+  },
+  {
+    "name": "objects",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "dir",
+    "size": 2256
+  },
+  {
+    "name": "pack",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "info",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "cb",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 245
+  },
+  {
+    "name": "b0706dea88d420531f1fa5ed4e13a04f4fc60a",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 245
+  },
+  {
+    "name": "74",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 470
+  },
+  {
+    "name": "7413411258edbdbe6cb754109ba2c6dce80ef3",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 470
+  },
+  {
+    "name": "80",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 1298
+  },
+  {
+    "name": "4c6f5abb13d897afd65eadc0a7b348812603f6",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 1298
+  },
+  {
+    "name": "d0",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 107
+  },
+  {
+    "name": "f61984910ecc42bbc738dd0bb3363387aed29c",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 107
+  },
+  {
+    "name": "3e",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 136
+  },
+  {
+    "name": "17dde1e4ef68de791adb09a9fca8580afe64ef",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 136
+  },
+  {
+    "name": "index",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "file",
+    "size": 281
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "file",
+    "size": 11
+  },
+  {
+    "name": "logs",
+    "parent_dir": "4_hometask_Py I_05.06.2024",
+    "type": "dir",
+    "size": 1090
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 564
+  },
+  {
+    "name": "refs",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 526
+  },
+  {
+    "name": "heads",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 368
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 368
+  },
+  {
+    "name": "remotes",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 158
+  },
+  {
+    "name": "Лекция 5. Погружение в Python. Итераторы и генераторы.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 2429133
+  },
+  {
+    "name": "Лекция 5. Погружение в Python. Итераторы и генераторы.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 451884
+  },
+  {
+    "name": "seminar 5_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 578
+  },
+  {
+    "name": "seminar 5_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 520
+  },
+  {
+    "name": "seminar 5_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 380
+  },
+  {
+    "name": "seminar 5_4.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 818
+  },
+  {
+    "name": "seminar 5_5.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 476
+  },
+  {
+    "name": "seminar 5_6.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 954
+  },
+  {
+    "name": "5_hometask_Py I_08.06.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 31327
+  },
+  {
+    "name": "task_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 614
+  },
+  {
+    "name": "task_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 913
+  },
+  {
+    "name": "task_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 480
+  },
+  {
+    "name": ".git",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 29320
+  },
+  {
+    "name": "description",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "hooks",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "dir",
+    "size": 25821
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2308
+  },
+  {
+    "name": "update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": "info",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "dir",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "refs",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "dir",
+    "size": 82
+  },
+  {
+    "name": "heads",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "tags",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "remotes",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "config",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "file",
+    "size": 322
+  },
+  {
+    "name": "objects",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "dir",
+    "size": 1379
+  },
+  {
+    "name": "pack",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "info",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "39",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 362
+  },
+  {
+    "name": "1ac1cc55ebf42d16fa2d84c7c15bd4dbcd03b9",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 362
+  },
+  {
+    "name": "4b",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 522
+  },
+  {
+    "name": "76f50b31415512a56b6957b6529d94203efb21",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 522
+  },
+  {
+    "name": "28",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 254
+  },
+  {
+    "name": "7ada6e6e65d95c6fbe5104954eb0adf8ea8ab7",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 254
+  },
+  {
+    "name": "54",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 107
+  },
+  {
+    "name": "a26e08825221031d1d6bc3574a1823e47412b5",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 107
+  },
+  {
+    "name": "b1",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 134
+  },
+  {
+    "name": "a8826d56c60df4d1bf1d8fe9519d711e3be3b0",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 134
+  },
+  {
+    "name": "index",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "file",
+    "size": 281
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "file",
+    "size": 11
+  },
+  {
+    "name": "logs",
+    "parent_dir": "5_hometask_Py I_08.06.2024",
+    "type": "dir",
+    "size": 1090
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 564
+  },
+  {
+    "name": "refs",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 526
+  },
+  {
+    "name": "heads",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 368
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 368
+  },
+  {
+    "name": "remotes",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 158
+  },
+  {
+    "name": "Лекция 6. Погружение в Python. Модули.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 2600487
+  },
+  {
+    "name": "Лекция 6. Погружение в Python. Модули.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 487783
+  },
+  {
+    "name": "seminar 6_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1460
+  },
+  {
+    "name": "seminar 6_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 2843
+  },
+  {
+    "name": "seminar 6_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1252
+  },
+  {
+    "name": "6_hometask_Py I_12.06.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 41703
+  },
+  {
+    "name": "Package_seminar_6",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 8970
+  },
+  {
+    "name": "check_year_module.py",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 1375
+  },
+  {
+    "name": "puzzles_module.py",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 2887
+  },
+  {
+    "name": "guess_number_module.py",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 1488
+  },
+  {
+    "name": "__init__.py",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 532
+  },
+  {
+    "name": "chess_module.py",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 2688
+  },
+  {
+    "name": ".git",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 32733
+  },
+  {
+    "name": "description",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "hooks",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "dir",
+    "size": 25821
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2308
+  },
+  {
+    "name": "update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": "info",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "dir",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "refs",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "dir",
+    "size": 82
+  },
+  {
+    "name": "heads",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "tags",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "remotes",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "config",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 322
+  },
+  {
+    "name": "objects",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "dir",
+    "size": 4462
+  },
+  {
+    "name": "pack",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "info",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "93",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 318
+  },
+  {
+    "name": "21a20d7629a9c585f118f6a892b72f67648fcc",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 318
+  },
+  {
+    "name": "77",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 694
+  },
+  {
+    "name": "278e7393b31261fce30a7dcdbb1f8ba09a9ceb",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 694
+  },
+  {
+    "name": "68",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 1085
+  },
+  {
+    "name": "2c8aa93f8e3e0ba040e907906f66f8f93d1d64",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 1085
+  },
+  {
+    "name": "69",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 745
+  },
+  {
+    "name": "a84009c25bdd9f41ec01715f925357bea14bdc",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 745
+  },
+  {
+    "name": "a0",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 1235
+  },
+  {
+    "name": "660b80d3584f46196f0fb0e4a2264c63966b3e",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 1235
+  },
+  {
+    "name": "46",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 192
+  },
+  {
+    "name": "7d22e5e59a873de1f2d1975c1a79de3b4bf379",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 192
+  },
+  {
+    "name": "a4",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 59
+  },
+  {
+    "name": "ae79cc459d5a042138a68647c1bf3dd8144295",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 59
+  },
+  {
+    "name": "a2",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 134
+  },
+  {
+    "name": "a22552cbeb0699cacb05f0f8e356a2fcf00b68",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 134
+  },
+  {
+    "name": "index",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 611
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "file",
+    "size": 11
+  },
+  {
+    "name": "logs",
+    "parent_dir": "6_hometask_Py I_12.06.2024",
+    "type": "dir",
+    "size": 1090
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 564
+  },
+  {
+    "name": "refs",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 526
+  },
+  {
+    "name": "heads",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 368
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 368
+  },
+  {
+    "name": "remotes",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 158
+  },
+  {
+    "name": "Лекция 7. Погружение в Python. Файлы и файловая система.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 2437959
+  },
+  {
+    "name": "Лекция 7. Погружение в Python. Файлы и файловая система.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 473280
+  },
+  {
+    "name": "seminar 7_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 764
+  },
+  {
+    "name": "seminar 7_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1069
+  },
+  {
+    "name": "seminar 7_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1766
+  },
+  {
+    "name": "seminar 7_4.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 821
+  },
+  {
+    "name": "seminar 7_5.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 971
+  },
+  {
+    "name": "seminar 7_6.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1629
+  },
+  {
+    "name": "seminar 7_7.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1053
+  },
+  {
+    "name": "test_seminar7",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 8504
+  },
+  {
+    "name": "video",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "images",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 7960
+  },
+  {
+    "name": "p3x_89s_a2655km0peb.jpeg",
+    "parent_dir": "test_seminar7",
+    "type": "file",
+    "size": 1422
+  },
+  {
+    "name": "tp07dtq_6nt6fg7x.jpeg",
+    "parent_dir": "test_seminar7",
+    "type": "file",
+    "size": 2763
+  },
+  {
+    "name": "u4me_drhsuf4h6o30br6r_qu.jpeg",
+    "parent_dir": "test_seminar7",
+    "type": "file",
+    "size": 3775
+  },
+  {
+    "name": "numbers1.txt",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 256
+  },
+  {
+    "name": "names1.txt",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 75
+  },
+  {
+    "name": "result1.txt",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 213
+  },
+  {
+    "name": "7_hometask_Py I_20.06.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 46230
+  },
+  {
+    "name": "Package_seminar_7",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 11105
+  },
+  {
+    "name": "fill_the_file.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 792
+  },
+  {
+    "name": "generate_name.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 1096
+  },
+  {
+    "name": "sum_files.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 1810
+  },
+  {
+    "name": "generate_files_simple.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 846
+  },
+  {
+    "name": "generate_files_advance.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 1015
+  },
+  {
+    "name": "generate_files_to_directory.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 1662
+  },
+  {
+    "name": "sort_files.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 1249
+  },
+  {
+    "name": "rename_files.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 2270
+  },
+  {
+    "name": "__init__.py",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 365
+  },
+  {
+    "name": ".git",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 35125
+  },
+  {
+    "name": "description",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 73
+  },
+  {
+    "name": "hooks",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "dir",
+    "size": 25821
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 478
+  },
+  {
+    "name": "commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 896
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4726
+  },
+  {
+    "name": "post-update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 189
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 424
+  },
+  {
+    "name": "pre-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1643
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 416
+  },
+  {
+    "name": "pre-push.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1374
+  },
+  {
+    "name": "pre-rebase.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 4898
+  },
+  {
+    "name": "pre-receive.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 544
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 1492
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2783
+  },
+  {
+    "name": "sendemail-validate.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 2308
+  },
+  {
+    "name": "update.sample",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 3650
+  },
+  {
+    "name": "info",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "dir",
+    "size": 240
+  },
+  {
+    "name": "exclude",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 240
+  },
+  {
+    "name": "refs",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "dir",
+    "size": 82
+  },
+  {
+    "name": "heads",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "tags",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "remotes",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 41
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 41
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 21
+  },
+  {
+    "name": "config",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 322
+  },
+  {
+    "name": "objects",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "dir",
+    "size": 6430
+  },
+  {
+    "name": "pack",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "info",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 0
+  },
+  {
+    "name": "55",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 247
+  },
+  {
+    "name": "58296f3d0d4ec602c4e8611e86c7658d09ee35",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 247
+  },
+  {
+    "name": "fd",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 508
+  },
+  {
+    "name": "61e0edeb289e783dd68ae994f9dfac3ac9f7e9",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 508
+  },
+  {
+    "name": "ca",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 554
+  },
+  {
+    "name": "32fb0d5bdd01eb4b9fa19eb2f3d7ad0c85e513",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 554
+  },
+  {
+    "name": "5b",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 493
+  },
+  {
+    "name": "5b21164f7470c18bcdd872c640898d64675061",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 493
+  },
+  {
+    "name": "0b",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 885
+  },
+  {
+    "name": "90640f407c7fccc29e05d08af949377b5348ce",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 885
+  },
+  {
+    "name": "e4",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 626
+  },
+  {
+    "name": "377c51c58f1143fe0c8244ccb886d9e6e40457",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 626
+  },
+  {
+    "name": "f9",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 1046
+  },
+  {
+    "name": "9372d47709399b4ee92786f5a035c5b3a6dfe4",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 1046
+  },
+  {
+    "name": "f1",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 687
+  },
+  {
+    "name": "c87db5c440ee50b83059ae21b6c2352278d524",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 687
+  },
+  {
+    "name": "11",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 870
+  },
+  {
+    "name": "f9654aa08a956cc636bf0de3ec109a9c597c58",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 870
+  },
+  {
+    "name": "8c",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 320
+  },
+  {
+    "name": "2bdca5ded66667671afcd05e7e06c2acce48e7",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 320
+  },
+  {
+    "name": "ad",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 59
+  },
+  {
+    "name": "b82631347506d6f5088157a3833d6f0606ba3c",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 59
+  },
+  {
+    "name": "35",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 135
+  },
+  {
+    "name": "9de0932f45e2389780e55667b885d8578f5b5c",
+    "parent_dir": "objects",
+    "type": "file",
+    "size": 135
+  },
+  {
+    "name": "index",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 1035
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "file",
+    "size": 11
+  },
+  {
+    "name": "logs",
+    "parent_dir": "7_hometask_Py I_20.06.2024",
+    "type": "dir",
+    "size": 1090
+  },
+  {
+    "name": "HEAD",
+    "parent_dir": ".git",
+    "type": "file",
+    "size": 564
+  },
+  {
+    "name": "refs",
+    "parent_dir": ".git",
+    "type": "dir",
+    "size": 526
+  },
+  {
+    "name": "heads",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 368
+  },
+  {
+    "name": "main",
+    "parent_dir": "refs",
+    "type": "file",
+    "size": 368
+  },
+  {
+    "name": "remotes",
+    "parent_dir": "logs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "origin",
+    "parent_dir": "refs",
+    "type": "dir",
+    "size": 158
+  },
+  {
+    "name": "main",
+    "parent_dir": "remotes",
+    "type": "file",
+    "size": 158
+  },
+  {
+    "name": "~$нспект_Погружение в Python. Часть 1_СемашкоМА.docx",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 162
+  },
+  {
+    "name": "Лекция 8. Погружение в Python. Сериализация.pptx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 2515942
+  },
+  {
+    "name": "Лекция 8. Погружение в Python. Сериализация.docx.pdf",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 437320
+  },
+  {
+    "name": "seminar 8_1.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1017
+  },
+  {
+    "name": "result1.json",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 284
+  },
+  {
+    "name": "seminar 8_2.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1602
+  },
+  {
+    "name": "users.json",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 145
+  },
+  {
+    "name": "seminar 8_3.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 858
+  },
+  {
+    "name": "users.csv",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 40
+  },
+  {
+    "name": "seminar 8_4.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 1566
+  },
+  {
+    "name": "new_users.json",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 321
+  },
+  {
+    "name": "seminar 8_5.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 828
+  },
+  {
+    "name": "result1.pickle",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 191
+  },
+  {
+    "name": "users.pickle",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 83
+  },
+  {
+    "name": "new_users.pickle",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 162
+  },
+  {
+    "name": "seminar 8_6.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 916
+  },
+  {
+    "name": "new_users.csv",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 154
+  },
+  {
+    "name": "seminar 8_7.py",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "file",
+    "size": 800
+  },
+  {
+    "name": "8_hometask_Py I_23.06.2024",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 10910
+  },
+  {
+    "name": "Package_seminar_8",
+    "parent_dir": "Погружение в Python. Часть 1",
+    "type": "dir",
+    "size": 10910
+  },
+  {
+    "name": "txt_to_json.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 1029
+  },
+  {
+    "name": "set_users.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 1629
+  },
+  {
+    "name": "json_to_csv.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 889
+  },
+  {
+    "name": "csv_to_json.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 1598
+  },
+  {
+    "name": "pickle_to_csv.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 949
+  },
+  {
+    "name": "csv_to_pickle.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 833
+  },
+  {
+    "name": "json_to_pickle.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 862
+  },
+  {
+    "name": "recursion_by_directory.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 2745
+  },
+  {
+    "name": "__init__.py",
+    "parent_dir": "8_hometask_Py I_23.06.2024",
+    "type": "file",
+    "size": 376
+  }
+]
